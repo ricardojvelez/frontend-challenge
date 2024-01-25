@@ -2,8 +2,6 @@
 Hi! I'm leaving some details below to help the review process. First time playing with Vue, my apologies upfront for any oversights💪 I recorded a quick demo of my work. Let me know if you have any questions or need clarification, thanks!
 https://www.loom.com/share/c675ba5b90574536ad31330b9798416b?src=composer. 
 
-
-
 # Structure
 ![image](https://github.com/ricardojvelez/frontend-challenge/assets/36717562/7f4ea2ef-a400-4c96-ae64-32c0edda0a54)
 
@@ -15,6 +13,7 @@ What I normally do is:
 - Mock the file on the parent component, unit test the parent
 - The higher component on the hierarchy, tests "end-to-end"
 - Mock requests and hooks on each file, as I highly trust the unit tests each one of them has.
+
 I don't follow these blindly, I'm always open to discussion and to adapt to your practices!
 
 # Feedback
