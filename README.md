@@ -8,7 +8,7 @@ https://www.loom.com/share/c675ba5b90574536ad31330b9798416b?src=composer.
 ![image](https://github.com/ricardojvelez/frontend-challenge/assets/36717562/7f4ea2ef-a400-4c96-ae64-32c0edda0a54)
 
 # Reflection
-1. I didn't mock up the UI perfectly. I'm adhering to timeboxes while addressing various challenges from interviews, and this detail(full-width navbar) took longer than expected, so I chose to skip it. I attempted to configure a layout while editing the main.css and base.css, but probably missed a small detail. I could inspect the DOM on Chrome Developer tools and edit the css but I couldn't make it work on the main.css/base.css
+1. I didn't mock up the UI perfectly. I'm sticking to timeboxes while addressing different challenges from interviews, and this detail(full-width navbar) took longer than expected, so I chose to skip it. I attempted to configure a layout while editing the main.css and base.css, but probably missed a small detail. I could inspect the DOM on Chrome Developer tools and edit the css but I couldn't make it work on the main.css/base.css.
 2. I didn't add tests. I'm super big on tests but given it's a challenge, I chose not to commit fully here. We can discuss it later in our discussion.
 What I normally do is:
 - Unit test a file (Logic + Snapshots)
