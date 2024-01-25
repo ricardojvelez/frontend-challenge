@@ -1,7 +1,6 @@
 # Demo
 Hi! I'm leaving some details below to help the review process. First time playing with Vue, my apologies upfront for any oversights💪
 I recorded a quick demo of my work. Check it out here: https://www.loom.com/share/c675ba5b90574536ad31330b9798416b?src=composer. Let me know if you have any questions or need clarification. Thanks!
-<div style="position: relative; padding-bottom: 56.25%; height: 0;"><iframe src="https://www.loom.com/embed/c675ba5b90574536ad31330b9798416b?sid=a72427c8-e3f0-40e2-a7a6-d604451e0121" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div>
 
 # Structure
 ![image](https://github.com/ricardojvelez/frontend-challenge/assets/36717562/7f4ea2ef-a400-4c96-ae64-32c0edda0a54)
